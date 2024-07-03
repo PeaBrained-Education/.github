@@ -46,4 +46,4 @@ Welcome to PeaBrained Education! Let's learn and grow together!
 
 
 <br><br><br>
-[![](assets/org/discord_button.png "A pixel art drawing that says Join The Discord on it. The text transitions in rainbow colors. Clicking this will open a discord invite")](https://discord.gg/89KgmzQsDC)
+[![](https://raw.githubusercontent.com/PeaBrained-Education/.github/main/assets/org/discord_button.png "A pixel art drawing that says Join The Discord on it. The text transitions in rainbow colors. Clicking this will open a discord invite")](https://discord.gg/89KgmzQsDC)
