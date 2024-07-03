@@ -43,7 +43,5 @@ Our mission is to foster an inclusive and supportive community for those who are
 If you have any questions or need support, feel free to reach out to any of our moderators or administrators. We're here to help you learn and grow in a positive and respectful environment.
 
 Welcome to PeaBrained Education! Let's learn and grow together!
-
-
-<br><br><br>
+<br><br>
 [![](https://raw.githubusercontent.com/PeaBrained-Education/.github/main/assets/org/discord_button.png "A pixel art drawing that says Join The Discord on it. The text transitions in rainbow colors. Clicking this will open a discord invite")](https://discord.gg/89KgmzQsDC)
